@@ -32,7 +32,7 @@ The project leverages the following technologies:
 
 edit for jenkins#
 
-one-last Edit by AyopoB#
+one last Edit by AyopoB#
 
 
 
