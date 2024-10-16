@@ -35,5 +35,3 @@ edit for jenkins
 new Edit by AyopoB.
 
 
-work please
-
